@@ -158,7 +158,8 @@ export function SideBar(props: { className?: string }) {
           ChatGPT Next
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          <a href="https://shop.vamond.top">购买chatgpt官网独享账号含API key</a>
+          <div><a href="https://aiwechat.org?inVitecode=XFYMNYKXVW">AIwechat.org: 免费使用gpt-4、AI绘画</a></div>
+          <div><a href="https://shop.vamond.top">AI商城：购买chatgpt账号</a></div>
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
